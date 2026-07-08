@@ -10,7 +10,7 @@
 
 **Senior Full-Stack Engineer** — AI & agentic systems, GIS & mapping, real estate tech.
 Navy veteran, former licensed Realtor, and the kind of engineer who can drop into any
-layer of a product and ship. Most of my work is private — here's what I can show.
+layer of a product and ship. Most of my work is private, but here's what I can show.
 
 <br>
 
