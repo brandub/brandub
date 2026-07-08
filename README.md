@@ -24,14 +24,7 @@ from first contact through close. As **Head of Engineering**, I took over the
 entire engineering function as the company consolidated to a single engineer, and
 owned the product from a B2C app through a full pivot to B2B SaaS.
 
-<!-- Dark/light aware — GitHub swaps the image to match the viewer's theme.
-     Replace both SVGs in assets/ with a real product screenshot (light + dark),
-     or point src at a GitHub-hosted image URL. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/tetherre-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tetherre-hero-light.svg">
-  <img alt="Tether RE" width="856" src="assets/tetherre-hero-dark.svg">
-</picture>
+<img alt="Tether RE — Real Estate Agent Safety Platform" width="100%" src="assets/tetherre-hero.png">
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/tether-re/id1671685723)
 &nbsp;
