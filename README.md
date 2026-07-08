@@ -52,6 +52,41 @@ owned the product from a B2C app through a full pivot to B2B SaaS.
 
 <br>
 
+# 🛰️ EagleView — Aerial Imagery & Property Intelligence
+
+GIS-powered web applications for aerial imagery analysis and property intelligence,
+built on a customized fork of Mapbox. I worked across both **Cloud Explorer** (viewing,
+measurement, and analysis of high-resolution aerial imagery) and **EagleView 3D**
+(digital-twin mesh models for 3D measurement, line of sight, and shadow analysis).
+
+<img alt="EagleView 3D — analyze digital twins from the desktop" width="100%" src="assets/eagleview.jpg">
+
+- Converted **ArcGIS** tile data into **Mapbox**-compatible tiles to bridge two
+  geospatial ecosystems, and migrated a legacy GIS platform to scalable cloud services.
+- Built a life-safety feature letting **911 dispatchers determine a caller's elevation
+  inside a building** during emergency calls, and implemented **Okta SSO**.
+
+<br>
+
+# 📡 QuickSCIP — 5G Deployment & Site Selection
+
+A geospatial data-collection platform for the 5G network rollout that maps cell-tower
+sites and turns field data into the drawings used for permitting and construction. It
+pairs a **Site Selector** mobile app with a **Control Tower** web dashboard — and, per
+Thirtythree, lets crews complete deployments up to **10× faster**.
+
+<div align="center">
+<img alt="QuickSCIP — Control Tower web app and Site Selector mobile" width="80%" src="assets/quickscip.png">
+</div>
+
+- Full-stack across mobile capture, the dynamic mapping layer (street / satellite /
+  360°), and automated report generation (Word / Excel / PDF) — in **React, React
+  Native, Node.js, and Go**.
+- In testing: full site assessments in **under 10 minutes**, and **1,500 candidate
+  SCIPs processed in under 10 days**.
+
+<br>
+
 # 🔭 Currently
 
 **Building [RealRev](https://github.com/brandub)** at Thirtythree — an AI opportunity
@@ -102,7 +137,7 @@ and reporting, grounded in client data with RAG and tool-use.
 
 # 📌 More
 
-A deeper Tether RE write-up lives in my pinned
+Deeper write-ups on all three projects live in my pinned
 **[portfolio](https://github.com/brandub/portfolio)** repo.
 
 📫 &nbsp; brandub@gmail.com &nbsp; · &nbsp; 📍 Richland, WA
