@@ -87,14 +87,6 @@ Thirtythree, lets crews complete deployments up to **10× faster**.
 
 <br>
 
-# 🔭 Currently
-
-**Building [RealRev](https://github.com/brandub)** at Thirtythree — an AI opportunity
-engine for real estate agents. Multi-agent orchestration for outreach, lead discovery,
-and reporting, grounded in client data with RAG and tool-use.
-
-<br>
-
 # 🛠 Tech Stack
 
 #### Languages
