@@ -14,6 +14,28 @@ layer of a product and ship. Most of my work is private, but here's what I can s
 
 <br>
 
+# 🔭 RealRev — AI Opportunity Engine for Real Estate
+
+> *An AI teammate that finds the next deal before the agent does.*
+
+An AI opportunity engine for real estate agents.
+Multi-agent orchestration handles outreach, lead discovery, and reporting —
+grounded in each agent's own client data with RAG and tool-use, so the
+recommendations are specific, sourced, and actionable.
+
+<img alt="RealRev — AI opportunity engine for real estate agents" width="100%" src="assets/realrev-hero.png">
+
+**What I built:**
+
+- **Multi-agent orchestration** — coordinated agents for outreach, lead
+  discovery, and reporting, each with scoped tools and a shared client context.
+- **RAG over client data** — grounds every recommendation in the agent's own
+  book of business, with citations back to the source records.
+- **Tool-use pipelines** — agents that take action across CRM, comms, and
+  reporting rather than just generating text.
+
+<br>
+
 # 🛡️ Tether RE — Real Estate Agent Safety Platform
 
 > *Because the most important part of any deal is making it home safe.*
