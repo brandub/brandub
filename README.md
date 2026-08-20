@@ -154,7 +154,7 @@ Thirtythree, lets crews complete deployments up to **10× faster**.
 Deeper write-ups on all three projects live in my pinned
 **[portfolio](https://github.com/brandub/portfolio)** repo.
 
-**Also tinkering on:**
+**Also built:**
 
 - 🤿 **[Scuba Dive Club](https://scubadive.club)** — a site for my local dive club.
 - ⚓ **[USN Collett Diary](https://usn-collett-diary.pages.dev/)** — a wartime diary
